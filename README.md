@@ -1,6 +1,6 @@
 # Stripe Menu Clone
 13th of 15 React Projects following [John Smilga](https://github.com/john-smilga/react-projects) tutorial from FreeCodeCamp course. 
-In this project we built a minimalistic clone from Stripe Website, it's responsive and on big screens the size of the items displayed changes based on how many items are present in the button.
+In this project we built a minimalistic clone from the menu on Stripe Website, it's responsive and on big screens the size of the items displayed changes based on how many items are present in the button.
 React Hooks useState, useEffect and useRef were used to open and close the menu in small screens, capture the width and height of the menu (based on the list of items) and select the DOM item for manipulation.
 
 
